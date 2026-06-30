@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "- Node and Express Fundamentals\r - Complex REST API\r - MERN App\r - More Projects",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "01_intro.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "express": "^5.2.1",
+    "lodash": "^4.18.1"
+  }
+}
